@@ -18,7 +18,7 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test1.PNG)
+<img width="397" height="178" alt="Test1" src="https://github.com/user-attachments/assets/c5765d96-dc23-4dd5-91dc-43d8ee33b6c4" />
 
 
 # Задание 2. Списки
@@ -38,7 +38,7 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test2.PNG)
+<img width="384" height="281" alt="Test2" src="https://github.com/user-attachments/assets/2abc9524-47b4-4301-a467-09eb584f48df" />
 
 
 # Задание 3. Решить задачу на обработку списка
@@ -62,7 +62,7 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test3.png)
+<img width="490" height="380" alt="Test3" src="https://github.com/user-attachments/assets/5ef54b73-25ce-4468-8d4b-d917bee12024" />
 
 
 # Задание 4. Решить логическую задачу
@@ -99,4 +99,5 @@
 
 ### Тестирование
 
-![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test1.PNG)
+<img width="354" height="233" alt="Test4" src="https://github.com/user-attachments/assets/13a7e966-8ae0-4598-8d45-a66430de8ba1" />
+
